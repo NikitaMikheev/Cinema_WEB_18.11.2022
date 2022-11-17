@@ -586,6 +586,7 @@ body {
 }
 
 .page-footer__top-part {
+    padding-top: 64px;
     padding-bottom: 34.42px;
 }
 
